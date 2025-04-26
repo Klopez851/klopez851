@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Keidy<br><br>I'm a passionate aspiring backend developer who loves to code interesting things.<br>Currently studying up on api's and databases! 🚀<br><br>📚 What I'm Up To<br><br>    🎯 Currently working on: A fully functioning, simple, task tracking website<br><br>    🌱 Learning: JavaScript <br><br>    🤝 Open to collaborating on: Most types of projects, I like coding!<br>
+Hello, I'm Keidy!<br><br>I'm a passionate aspiring backend developer who loves to code interesting things.<br>Currently studying up on api's and databases! 🚀<br><br>📚 What I'm Up To<br><br>    🎯 Currently working on: A fully functioning, simple, task tracking website<br><br>    🌱 Learning: JavaScript <br><br>    🤝 Open to collaborating on: Most types of projects, I like coding!<br>
 
 
 ## 🌐 Socials:
