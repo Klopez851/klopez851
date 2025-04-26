@@ -34,6 +34,8 @@ Hello, I'm Keidy!<br><br>I'm a passionate aspiring backend developer who loves t
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
 ###
@@ -47,6 +49,7 @@ Hello, I'm Keidy!<br><br>I'm a passionate aspiring backend developer who loves t
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
 ###
 
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHJvazNiOGdwbnUwYTl4ZWZmOXRjc2hvcnN2NXI5ZmgxcTRqYjA3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
@@ -59,7 +62,7 @@ Hello, I'm Keidy!<br><br>I'm a passionate aspiring backend developer who loves t
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/klopez851/klopez851/output/pacman-contribution-graph.svg">
 </picture>
 
+###
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-
