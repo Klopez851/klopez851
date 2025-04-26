@@ -52,10 +52,6 @@ Hello, I'm Keidy!<br><br>I'm a passionate aspiring backend developer who loves t
 
 ###
 
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHJvazNiOGdwbnUwYTl4ZWZmOXRjc2hvcnN2NXI5ZmgxcTRqYjA3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/klopez851/klopez851/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/klopez851/klopez851/output/pacman-contribution-graph.svg">
