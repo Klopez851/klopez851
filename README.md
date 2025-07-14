@@ -52,11 +52,7 @@ Hello, I'm Keidy!<br><br>I'm a passionate aspiring backend developer who loves t
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/klopez851/klopez851/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/klopez851/klopez851/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/klopez851/klopez851/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/klopez851/klopez851/output/snake.svg" alt="Snake animation" />
 
 ###
 
