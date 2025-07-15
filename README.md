@@ -3,7 +3,7 @@ Hello, I'm Keidy!<br><br>I'm a passionate aspiring backend developer who loves t
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=klopez851&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=klopez851&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&custom_title=Languajes" height="150" alt="languages graph"  />
 </div>
 
 ###
