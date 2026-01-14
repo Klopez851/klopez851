@@ -8,7 +8,7 @@ Hello, I'm Keidy!<br><br>I'm a passionate aspiring backend developer who loves t
 
 ###
 
-<h2 align="left">Im most comfortable using...</h2>
+<h2 align="left">Im comfortable using...</h2>
 
 ###
 
