@@ -1,9 +1,14 @@
 # About Me:
 Hello, I'm Keidy!
+
 I'm an aspiring backend developer who loves to code things that interest me.
+
 Currently studying up on a variety of topics which include Spring boot, RESTful and SOAP apis, and getting an SQL Certification!
+
 Currently working on: A fully functioning, simple, note-taking website
+
 Learning more about: React and Spring
+
 Open to collaborating on: Most types of projects, I like coding!
 ###
 
