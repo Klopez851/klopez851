@@ -1,69 +1,19 @@
-# About Me:
-Hello, I'm Keidy!
+# Keidy Lopez
+Backend developer in Central Massachusetts. I build REST APIs in Java and
+Spring Boot, I have experience with authentication, relational data modeling, containerized
+deployment, and the automated tests.
 
-I'm a junior backend developer who loves to code things that interest me.
+**Most recent work:** [ClarityAPI](https://github.com/Klopez851/ClarityAPI) —
+a note-taking API with stateless JWT authentication, a normalized MySQL
+schema with ownership-based access control, Docker Compose deployment,
+and an expanding test suite in JUnit 5 and Rest Assured.
 
-Currently studying up on a variety of topics which include Spring boot, RESTful and SOAP APIs, and getting an SQL Certification!
+**Currently building:** Expanding the scope of automated tests and a React front end for ClarityAPI.
 
-Currently working on: A fully functioning, simple, note-taking website.
+**Looking for:** backend, platform, or technical support engineering roles
+in the Worcester / 495 / Greater Boston area. U.S. citizen, eligible for
+clearance sponsorship. Bilingual English–Spanish.
 
-Learning more about: React and Spring boot
-
-Open to collaborating on: Most types of projects, I like coding!
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=klopez851&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&custom_title=Languajes" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<h2 align="left">Im comfortable using...</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-</div>
-
-<!--
-###
-
-<h2 align="left">Im currrently studying up on...</h2>
-
-###
--->
-###
-
-<h2 align="left">Let's connect!</h2>
-
-###
-
-<div align="left">
-  <a href="www.linkedin.com/in/keidy-lopez-1361072a2" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/klopez851/klopez851/output/snake.svg" alt="Snake animation" />
-
-###
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+---
+Clinton, MA · Keidy.y.Lopez@gmail.com ·
+[LinkedIn](https://www.linkedin.com/in/keidy-lopez-1361072a2)
